@@ -5,13 +5,12 @@ Pytorch Implementation for our MICCAI 2021 paper: [LambdaUNet: 2.5D Stroke Lesio
 
 
 # Overview
-![Loading LambdaUnet Overview](https://github.com/YanglanOu/LambdaUNet/blob/main/images/lambda_layer.pdf)
+![Loading LambdaUnet Overview](https://github.com/YanglanOu/LambdaUNet/blob/main/images/lambda_layer.png)
 
 # Installation
 ### Environment
 * Tested OS: Linux
 * Python >= 3.6
-* PyTorch == 1.4.0
 
 ### Dependencies:
 1. Install [PyTorch 1.4.0](https://pytorch.org/get-started/previous-versions/) with the correct CUDA version.
