@@ -1,0 +1,8 @@
+pyyaml
+numpy 
+pytorch-lightning
+einops
+scikit-learn
+pandas
+opencv-python
+nibabel
