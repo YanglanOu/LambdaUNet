@@ -1,12 +1,12 @@
 # wo_cut_marginal_sig_lr_1e_4_tr_3_bz_12_seq_8
-gpus: [6,7]
+gpus: [0,1,2,3]
 results_dir: './test_results/'
 n_channels: 2
 n_classes: 1
 shuffle: True
 
 learning_rate: 0.0001
-batchsize: 6
+batchsize: 12
 val_batchsize: 4
 seq_len: 8
 bilinear: False
